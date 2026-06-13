@@ -1,0 +1,17 @@
+# software name
+name: "Cereal"
+# URL of the software project's homepage
+website_url: "https://cereal.run/"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/cereal-run/cereal"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Email dashboard that routes incoming mail into separate per-business inboxes by the address it was sent to, for managing several businesses or domains from one place. Connects to any IMAP/SMTP mailbox."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml
+licenses:
+  - AGPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms
+platforms:
+  - Nodejs
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags
+tags:
+  - Communication - Email - Webmail Clients
